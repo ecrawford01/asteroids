@@ -1,4 +1,4 @@
-# asteroids
+# Asteroids
 
 HOW TO RUN ASTEROIDS
 
