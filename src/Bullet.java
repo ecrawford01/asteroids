@@ -3,7 +3,6 @@
  * A bullet is provided with a bullet life to track the steps of the bullet.
  * 
  * 
- * References and Acknowledgments: I received help from TA Alex.
  * 
  * @author Ethan Crawford
  * @version 1.0 4/3/19

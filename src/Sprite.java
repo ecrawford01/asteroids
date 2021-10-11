@@ -2,7 +2,6 @@
  * A Sprite is a movable object that is given a specified position with a specified movement. It
  * holds a collision radius for each subclass that inherits.
  * 
- * References and Acknowledgments: I received help from TA Maddie.
  * 
  * @author Ethan Crawford
  * @version 1.0 4/3/19

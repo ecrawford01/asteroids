@@ -5,8 +5,6 @@ import java.awt.event.*;
  * the keyboard codes that are pressed. It is displayed at the center of the screen as a triangle.
  * 
  * 
- * References and Acknowledgments: I received help from TA Maddie.
- * 
  * @author Ethan Crawford
  * @version 1.0 4/3/19
  *

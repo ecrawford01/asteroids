@@ -3,8 +3,7 @@ import java.util.*;
 /**
  * The AsteroidsGame class provides all of the functionality for the Asteroid Game. It creates the
  * stars, generates the score board, and also checks for the collision between all of the objects.
- * 
- * References and Acknowledgments: I received help from TAs: Grant, Maddie, Avery, Megan(from class)
+ *  
  * 
  * @author Ethan Crawford
  * @version 1.0 4/3/19

@@ -2,7 +2,6 @@
  * An Asteroid object is an open circle that is generated at a random location of the screen. When
  * asteroids are destroyed, they add 20 points to the score.
  * 
- * References and Acknowledgments: I received no help making this class.
  * 
  * @author Ethan Crawford
  * @version 1.0 4/3/19

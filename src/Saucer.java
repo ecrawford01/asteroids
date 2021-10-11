@@ -3,7 +3,6 @@
  * appearance. It also provides a direction change after each time step. When they are destroyed,
  * they give their desired points.
  * 
- * References and Acknowledgments: I did not receive help to make this class.
  * 
  * @author Ethan Crawford
  * @version 1.0 4/3/19
