@@ -1,6 +1,6 @@
 # Asteroids
 
-# Tecnologies Used
+# Technologies Used
 
 This application is compiled into a .jar file. I developed the project using Java and built the game built around a driver class named GameDriver.java. 
 Constructed intially with a UML diagram, this game has objects for each of the following:
